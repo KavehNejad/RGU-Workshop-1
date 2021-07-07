@@ -1,0 +1,14 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    activesupport (6.1.4)
+      bindex (0.5.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  graphql-client
+
+BUNDLED WITH
+   2.1.4
